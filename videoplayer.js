@@ -12,7 +12,7 @@ window.jwplayer=function(t){function e(e){for(var n,i,o=e[0],u=e[1],a=0,s=[];a<o
 
 
 var jwDefaults = {
-  "aboutlink": "#",
+  "aboutlink": "https://www.whatchado.com",
   "abouttext": "About us",
   "aspectratio": "16:9",
   "autostart": false,
